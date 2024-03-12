@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+/backend/.idea/.gitignore
+/backend/.idea/backend.iml
+/backend/.idea/dbnavigator.xml
+/backend/.idea/modules.xml
+/backend/.idea/vcs.xml
