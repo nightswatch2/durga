@@ -24,3 +24,12 @@ go.work
 /backend/.idea/dbnavigator.xml
 /backend/.idea/modules.xml
 /backend/.idea/vcs.xml
+
+# IDEs
+.idea
+
+
+# frontend
+/frontend/durga/node_modules
+/frontend/durga/.env.local
+/frontend/durga/package-lock.json
